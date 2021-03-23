@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Mattheussr
-- 👀 I’m interested in frontend, python automations and gamedev as a hobby
-- 🌱 I’m currently taking a pharmaceutic bachalor degree
-- 💞️ I’m looking to collaborate on health and in silico research, like protein docking 3D simulations
 
 
 <!---
